@@ -1,18 +1,15 @@
-# WOR**L**DLE
+# STA**T**ELE
 
-Play this geographical wordle here: https://worldle.teuteuf.fr !
+Play this geographical statele here: https://worldle.teuteuf.fr !
 
-## Contributions & PR
+## How to Make a Dev Build
 
-Even if there are many more users than I could ever imagine on Worldle, it was originally a small pet project that I started in order to  practice code and have fun.
+Run "npm install" in a termimal
+next Run "npm start" to make a dev build
 
-So, I prefer to continue to manage it personally and do all the design and the code by myself.  :)
+## How to Make a Build for a web server
 
-Therefore, I'm not looking for contributors or PR! I could accept PR for specific things, for instance to add support for your native language or to fix something, but please, don't hesitate to contact me first!
-
-If you'd like to make a suggestion, don't hesitate to open an issue!
-
-Otherwise, feel free to fork the project, customize it and play with it on your side! <3
+run "npm run build"
 
 ## Resources used:
 
@@ -22,3 +19,4 @@ Otherwise, feel free to fork the project, customize it and play with it on your 
 - Country images => https://github.com/djaiss/mapsicon
 - Fixed images => http://www.amcharts.com/svg-maps/ & Wikipedia
 - Emojis & World icon => https://github.com/twitter/twemoji
+- Worldle => https://worldle.teuteuf.fr/
